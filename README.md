@@ -4,6 +4,6 @@ In this project, we aim to see how demographic data for patients, such as race, 
 
 Read through Reports 1-4 to gain an overview of the project, the data analysis, and model results. 
 
-[Some title here](Hospital Care for Diabetes in Relation to Patient Demographics.pptx.pdf)
+Hospital Care for Diabetes in Relation to Patient Demographics.pptx.pdf provides a brief summary of the overall project in presentation form. 
 
 
